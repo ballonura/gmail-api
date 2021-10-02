@@ -1,0 +1,24 @@
+{
+  "name": "gmail-api",
+  "version": "1.0.0",
+  "description": "Upload Chrome Extensions to the Chrome Web Store",
+  "type": "module",
+  "exports": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": "fregante/chrome-webstore-upload",
+  "keywords": [
+    "gmail",
+    "sdk",
+    "api"
+  ],
+  "license": "MIT",
+  "author": "Ballon Ura",
+  "contributors": [
+    "Federico Brigante <me@fregante.com> (https://fregante.com)"
+  ]
+}
